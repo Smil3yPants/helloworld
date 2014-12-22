@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-learning github
+First commit to the helloworld project. Hello World!
